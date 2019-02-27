@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PTI-Crianza"/>
+	<classpathentry kind="lib" path="C:/Users/Nitto/Downloads/wildfly-11.0.0.CR1/wildfly-11.0.0.CR1/bin/client/jboss-client.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitto/Downloads/wildfly-11.0.0.CR1/wildfly-11.0.0.CR1/modules/system/layers/base/org/hibernate/main/hibernate-core-5.1.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitto/Downloads/wildfly-11.0.0.CR1/wildfly-11.0.0.CR1/modules/system/layers/base/org/hibernate/main/hibernate-entitymanager-5.1.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitto/Downloads/wildfly-11.0.0.CR1/wildfly-11.0.0.CR1/modules/system/layers/base/org/hibernate/main/hibernate-envers-5.1.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitto/Downloads/wildfly-11.0.0.CR1/wildfly-11.0.0.CR1/modules/system/layers/base/org/hibernate/main/hibernate-java8-5.1.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitto/Downloads/wildfly-11.0.0.CR1/wildfly-11.0.0.CR1/modules/system/layers/base/javax/persistence/api/main/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitto/Downloads/wildfly-11.0.0.CR1/wildfly-11.0.0.CR1/modules/system/layers/base/org/hibernate/validator/main/hibernate-validator-5.3.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitto/Desktop/Nitto/UTEC/Eclipse - Java Proyect´s/veterinaria/lib/jdatepicker-1.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
