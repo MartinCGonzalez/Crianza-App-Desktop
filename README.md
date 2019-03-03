@@ -9,7 +9,7 @@ control of their accounts through reports and analysis of events that can help p
 best use of their resources and also not to lose calf lives for not having reports of his health
 status.
 
-This repository contains and desktop aplication using Java and Swing for the interface.
+This repository contains and desktop application using Java and Swing for the interface.
 <br>
 
 - PTI-Cliente: Contains the interface for the user, made using Swing
